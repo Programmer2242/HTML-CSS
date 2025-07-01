@@ -35,7 +35,7 @@
 nav{
     gap: 20px;
     display: flex;
-    transition: 2s;
+    transition:all 2s erase;
 }
 .nav span{
     color: rgb(225, 232, 236);
